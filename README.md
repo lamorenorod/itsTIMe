@@ -8,10 +8,9 @@ We used NegGrad+ (fine-tune on retain + gradient ascent on forget, combined) for
 ## Repository structure
 
 - itsTIMe_code.ipynb          # Contains the code
-- Results                # the rsults can be divided as
-    └─── execution_time.txt
-    └─── model_artifact
-    └─── validation_ids.csv
+- execution_time.txt          #results in seconds
+- model_artifact              #results
+- validation_ids.csv          #results
 
 ## Members
 Ata Berk FIRAT 2168232
