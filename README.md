@@ -7,12 +7,11 @@ We used NegGrad+ (fine-tune on retain + gradient ascent on forget, combined) for
 
 ## Repository structure
 
-/
-├─── itsTIMe_code/                     # Contains the code
-├─── Results                # the rsults can be divided as
-│    └─── execution_time.txt
-│    └─── model_artifact
-│    └─── validation_ids.
+- itsTIMe_code.ipynb          # Contains the code
+- Results                # the rsults can be divided as
+    └─── execution_time.txt
+    └─── model_artifact
+    └─── validation_ids.csv
 
 ## Members
 Ata Berk FIRAT 2168232
