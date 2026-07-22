@@ -13,3 +13,8 @@ We used NegGrad+ (fine-tune on retain + gradient ascent on forget, combined) for
 │    └─── execution_time.txt
 │    └─── model_artifact
 │    └─── validation_ids.
+
+## Members
+Ata Berk FIRAT 2168232
+Emre Yeşil 2186113
+Laura Alejandra Moreno Rodriguez 2187193
